@@ -1,0 +1,5 @@
+server:
+  port: 8028
+spring:
+  application:
+    name: love-life-config-server
